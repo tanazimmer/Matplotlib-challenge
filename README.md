@@ -12,13 +12,15 @@ Using data provided which contains results from an animal study testing drug reg
     - Standard Deviation
     - SEM
   - Generate a bar plot that shows that total number of mice in each drug treatment regimen using both Matplotlib and DataFrame.plot()
-  - Generate a pit plot that shows the distribution of female and male mice in the study using both Matplotlib and DataFrame.plot()
+  - Generate a pie plot that shows the distribution of female and male mice in the study using both Matplotlib and DataFrame.plot()
   - Calculate final tumor volume of each mouse is 4 treatment regimens
     - Calculate quartiles and IQR
     - Quantitatively determine potential outliers
   - Generate box and whisker plot of final tumor volume across 4 treatment regimens, highlight outliers by changing color and style
+  https://github.com/tanazimmer/Matplotlib-challenge/blob/master/whisker.PNG
   - Generate a line plot of tumor volume vs. time point for one mouse
+  https://github.com/tanazimmer/Matplotlib-challenge/blob/master/line.PNG
   - Generate a scatter plot of mouse weight versus average tumor volume for one treatment regimen
   - Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for one treatment regimen
     - Plot linear regression model on top of scatter plot
-
+https://github.com/tanazimmer/Matplotlib-challenge/blob/master/scatter.PNG

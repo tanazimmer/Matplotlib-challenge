@@ -17,10 +17,15 @@ Using data provided which contains results from an animal study testing drug reg
     - Calculate quartiles and IQR
     - Quantitatively determine potential outliers
   - Generate box and whisker plot of final tumor volume across 4 treatment regimens, highlight outliers by changing color and style
+  
   ![Box and Whisker](https://github.com/tanazimmer/Matplotlib-challenge/blob/master/whisker.PNG)
+  
   - Generate a line plot of tumor volume vs. time point for one mouse
+  
   ![Line](https://github.com/tanazimmer/Matplotlib-challenge/blob/master/line.PNG)
+  
   - Generate a scatter plot of mouse weight versus average tumor volume for one treatment regimen
   - Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for one treatment regimen
     - Plot linear regression model on top of scatter plot
-![Linear Regression](https://github.com/tanazimmer/Matplotlib-challenge/blob/master/scatter.PNG)
+    
+  ![Linear Regression](https://github.com/tanazimmer/Matplotlib-challenge/blob/master/scatter.PNG)

@@ -1,6 +1,5 @@
 # Matplotlib-challenge
-## Week 4 of Data Analytics and Visualization
-### Primary Coding Language: Python with Matplotlib in Jupypter Notebook
+## Primary Coding Language: Python with Matplotlib in Jupypter Notebook
 Your tasks are to do the following:
 
 Using data provided which contains results from an animal study testing drug regimens for tumor treatment, complete the following tasks:
@@ -16,6 +15,7 @@ Using data provided which contains results from an animal study testing drug reg
   - Calculate final tumor volume of each mouse is 4 treatment regimens
     - Calculate quartiles and IQR
     - Quantitatively determine potential outliers
+     ![analysis](https://github.com/tanazimmer/Matplotlib-challenge/blob/master/pymaceuticals_analysis.PNG)
   - Generate box and whisker plot of final tumor volume across 4 treatment regimens, highlight outliers by changing color and style
   
   ![Box and Whisker](https://github.com/tanazimmer/Matplotlib-challenge/blob/master/whisker.PNG)

@@ -1,5 +1,5 @@
 # Matplotlib-challenge
-## Primary Coding Language: Python with Matplotlib in Jupyter Notebook
+## Primary Coding Language and skills: Python with Matplotlib in Jupyter Notebook with Matplotlib
 Your tasks are to do the following:
 
 Using data provided which contains results from an animal study testing drug regimens for tumor treatment, complete the following tasks:
